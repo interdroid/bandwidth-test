@@ -6,18 +6,14 @@ import interdroid.cuckoo.client.Oracle;
 import interdroid.cuckoo.client.Statistics;
 
 import java.util.Arrays;
-import java.util.HashMap;
 import java.util.List;
-import java.util.Map;
 
 import org.apache.commons.math3.stat.descriptive.DescriptiveStatistics;
 
 import android.app.Activity;
-import android.net.wifi.WifiManager;
 import android.os.Bundle;
 import android.view.View;
 import android.view.View.OnClickListener;
-import android.widget.EditText;
 
 public class MainActivity extends Activity {
 
